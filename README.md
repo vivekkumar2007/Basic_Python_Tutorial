@@ -20,7 +20,7 @@ Learn about arithmetic, comparison, logical, bitwise, and assignment operators.
 [String creation](Chapter%203/01_Strings.py), [indexing](Chapter%203/02_stringslicing.py), [slicing](Chapter%203/02_stringslicing.py), [methods](Chapter%203/03_string_function.py), and [formatting](Chapter%203/04_escape_sequences.py).
 
 ### 🔁 [Control Flow (if-else)](Chapter%206)  
-Master conditional statements (if-else), `for` and `while` loops.
+Master conditional statements (if-else).
 
 ### 🔁 [Control Flow (for and while loops)](Chapter%207)
 Master `for` and `while` loops.
