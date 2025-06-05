@@ -35,7 +35,7 @@ Learn key-value data structures and dictionary methods.
 ### 🧰 [Functions](Chapter%208)  
 Learn to define and call functions, arguments, return values, `*args`, and `**kwargs`.
 
-### 🗃️ [File Handling](Chapter%2011/11_file_handling.py)  
+### 🗃️ [File Handling](File Handling)  
 Read from and write to files, handle file exceptions.
 
 ### 🧱 [Object-Oriented Programming (OOP)](OOPS)  
