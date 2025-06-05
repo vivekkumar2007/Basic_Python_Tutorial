@@ -17,3 +17,20 @@ print(a)
 
 print(a.pop())  # remove an arbitrary element from the set and return the element removed
 print(a)
+
+x= set([2,5,3,7,4,3,5])
+print("x= ", x)
+
+y = set([6,1,3,2,9,8])
+print("y =", y)
+
+# Union and Intersection of Two sets
+intersec= x.intersection(y)
+print(x&y)  # This is also x intersection y
+print(intersec)
+
+union = x.union(y)
+print(x|y)  # this is also x intersection y
+print(union)
+
+print(x^y)
